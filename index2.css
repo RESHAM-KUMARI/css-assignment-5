@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(209, 209, 36);
+    justify-content: center;
+    margin-left: 500px;
+    color: black;
+}
+.main{
+    height: 120px;
+    width: 120px;
+    margin: 15px;
+    transition-duration: 3s;
+    background-color: rgba(23, 185, 23, 0.833);
+}
+#main1:hover{
+    width: 250px;
+    transition: linear;
+    transition: 3s;
+}
+#main2:hover{
+    transition: width 2s, height 4s;
+    width: 250px;
+    height: 250px;
+}
+#main3:hover{
+    width: 250px;
+    transition: linear;
+    transition: 3s;   
+}
+#main4:hover{
+    width: 250px;
+    transition: linear;
+    transition: 3s;  
+}
+#main5:hover{
+    width: 250px;
+    transition: linear;
+    transition: 3s; 
+}
+#main6:hover{
+    width: 250px;
+    transition: linear;
+    transition: 3s;
+}
+#main7:hover{
+    width: 250px;
+    transition: linear;
+    transition: 3s;  
+}
+a{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
